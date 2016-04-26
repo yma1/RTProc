@@ -1,4 +1,3 @@
-//add
 #include "header.h"
 
 int main_alg()
